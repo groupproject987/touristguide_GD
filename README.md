@@ -1,7 +1,14 @@
 # Ethiopian Tourist Guide
 Tourist Guide App, with a frontend built in React and Redux with a backend built in Django API
+
 Checkout [Frontend Live Deployment](https://frontend-touristguide.herokuapp.com/)
+
 Checkout [Backend Live Deployment](https://backend-touristguide.herokuapp.com/)
+
+![Screenshot 2022-01-28 at 7 01 48 PM](https://user-images.githubusercontent.com/91698619/151555781-297cfbc0-7646-40af-b7aa-edf08b5f922b.png)
+![Screenshot 2022-01-28 at 7 02 26 PM](https://user-images.githubusercontent.com/91698619/151555936-37ecff2e-d070-4c17-bfd9-4f087beff804.png)
+
+
 ## Technology used
 * Frontend : React & Redux
 * Backend : Django
