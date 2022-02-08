@@ -458,12 +458,11 @@ footer .copyright {
   font-weight: lighter;
 }
 footer hr {
-  width: 98%;
+  width: 100%;
   margin: 0 auto;
   background-color: rgb(112, 112, 112);
   height: 1px;
   border: none;
-  margin: 10px;
 }
 footer .footertext {
   color: rgb(39, 114, 84);
@@ -725,8 +724,8 @@ Media Screeens
     font-size: 19px;
   }
   .section1 .gridcontent img {
-    width: 48px;
-    height: 47px;
+    width: 38px;
+    height: 50px;
   }
   .section1 .gridcontent p {
     color: #ffffff;
